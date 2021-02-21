@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SplitTheBill</string>
+    <string name="app_heading">Split The Bill</string>
+    <string-array name="tip_choices">
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+    <string name="tip_prompt">Tip Amount</string>
+    <string name="bill_total">Bill Total</string>
+    <string name="number_of_people"># of people</string>
+    <string name="button_text">Calculate</string>
+    <string name="tip_text_view">Tip amount</string>
+    <string name="total_text_view">Total amount</string>
+    <string name="per_person_text_view">per person amount</string>
+    <string name="totalTextViewPlaceholder">Total: $%.2f</string>
+    <string name="tipTextViewPlaceholder">Tip amount: $%.2f</string>
+    <string name="perPersonTextViewPlaceholder">Per person costs: $%.2f</string>
+</resources>
